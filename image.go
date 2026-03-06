@@ -30,9 +30,10 @@ const (
 )
 
 const (
-	CreateImageModelDallE2    = "dall-e-2"
-	CreateImageModelDallE3    = "dall-e-3"
-	CreateImageModelGptImage1 = "gpt-image-1"
+	CreateImageModelDallE2        = "dall-e-2"
+	CreateImageModelDallE3        = "dall-e-3"
+	CreateImageModelGptImage1     = "gpt-image-1"
+	CreateImageModelGptImage1Dot5 = "gpt-image-1.5"
 )
 
 const (
